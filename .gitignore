@@ -1,0 +1,10 @@
+# Deps
+node_modules
+
+# Build
+dist
+
+# Env
+.env
+.env.*
+!.env.sample
